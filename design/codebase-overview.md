@@ -10,6 +10,8 @@ Counts and `path:line` references are a snapshot taken at commit `06537c328`.
 Structure changes slowly; line numbers do not — treat them as a starting point
 for `grep`, not as a contract.
 
+engineering playbook by AISI: https://engineering-playbook.aisi.org.uk/evaluate.html
+
 ## What it is
 
 Inspect is a framework for large language model evaluations, created by the UK
